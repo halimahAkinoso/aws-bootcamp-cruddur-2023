@@ -23,10 +23,10 @@ msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
 
 I attempted to run the command by typing in 'aws'  but i recieved an errors.
 
-![error message](assets/error_recieved.png)
+![error message](assets/aws%20error%20message.png)
 
 i was able to resolve the error by closing current command prompt and open it again.
-![Proof of working CLI](assets/Proof_of_install_aws_cli.png)
+![Proof of working CLI](assets/proof%20_of%20_AWS%20CLI.png)
 ### Create a Budget
 I  was able to create budget alert for 10$ because i cannot afford any spend.
 ![Budget Alert Created](assets/Budget_alert.png)
