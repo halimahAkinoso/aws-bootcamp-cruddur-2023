@@ -15,7 +15,7 @@ I installed the AWS CLI via the command in **command Promt**:
 
 I follow instruction on [AWS CLI install documentation page](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 
-![Installing AWS CLI](assets/installing_window_cLI.png)
+![Installing AWS CLI](assets/AWS%20installation.png)
 ```
 msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
 ```
