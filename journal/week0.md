@@ -29,11 +29,11 @@ i was able to resolve the error by closing current command prompt and open it ag
 ![Proof of working CLI](assets/proof%20_of%20_AWS%20CLI.png)
 ### Create a Budget
 I  was able to create budget alert for 10$ because i cannot afford any spend.
-![Budget Alert Created](assets/Budget_alert.png)
+![Budget Alert Created](assets/budget_alert.png)
 
 ### Recreate Logical Architectural design
 
-![Logical Architecture Design](assets/Recreate_Architectural_diagram.png)
+![Logical Architecture Design](assets/Lucid_chart_created.png)
 
 [Lucid chart share link](https://lucid.app/lucidchart/455168fe-db0d-46d1-96f6-eae65544f194/edit?viewport_loc=-908%2C-411%2C4252%2C2044%2C0_0&invitationId=inv_81a0af4c-6578-4f7d-980d-42122ceac090)
 
