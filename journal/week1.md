@@ -9,3 +9,6 @@ Research best practices of Dockerfiles and attempt to implement it in your Docke
 Learn how to install Docker on your localmachine and get the same containers running outside of Gitpod / Codespaces
 Launch an EC2 instance that has docker installed, and pull a container to demonstrate you can run your own docker processes. 
 
+
+link to show that pip3 install is running
+https://4567-halimahakin-awsbootcamp-xdcmoy0r7vb.ws-eu90.gitpod.io/api/activities/home
