@@ -21,7 +21,6 @@ class HomeActivities:
         'reposts_count': 0,
         'created_at': (now - timedelta(days=2)).isoformat()
       }],
-    },
-    
+    }  
     ]
     return results
