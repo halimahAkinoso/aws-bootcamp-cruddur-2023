@@ -10,6 +10,12 @@ Push and tag a image to DockerHub (they have a free tier)
  
 Use multi-stage building for a Dockerfile build 
 
+Document the Notification Endpoint for the OpenAI Document
+Write a Flask Backend Endpoint for Notifications
+Write a React Page for Notifications
+	Run DynamoDB Local Container and ensure it works
+ Run Postgres Container and ensure it works
+
 
 Implement a healthcheck in the V3 Docker compose file
 Research best practices of Dockerfiles and attempt to implement it in your Dockerfile
