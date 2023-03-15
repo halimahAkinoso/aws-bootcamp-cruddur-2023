@@ -3,6 +3,8 @@
 
 Run the dockerfile CMD as an external script
  **to put dockerfile image**
+ ![Run_Dockerfile_CMD](assets/Dockerfile_RUN_at_CMD_wk1.png)
+  ![]()
  Am able to build container
  **to put buils container image**
  
