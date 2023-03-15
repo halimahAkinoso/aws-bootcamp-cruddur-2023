@@ -1,24 +1,23 @@
 # Week 1 — App Containerization
-
-
-Run the dockerfile CMD as an external script
- **to put dockerfile image**
+For week challenge am able to do the following:
+Run the dockerfile CMD as an external script.
  ![Run_Dockerfile_CMD](assets/Dockerfile_RUN_at_CMD_wk1.png)
-  ![]()
- Am able to build container
- **to put buils container image**
  
-Push and tag a image to DockerHub (they have a free tier)
- 
+ Am able to build container successfully.
+   ![Build_container_image](assets/build_container_image%20wk1.png)
+   Also am able to push and tag a image to DockerHub
+  ![Push_image_to_dockerhub](assets/push-Image%20_to_dockerhub_wk1.png)
 Use multi-stage building for a Dockerfile build 
 
 Document the Notification Endpoint for the OpenAI Document
+ ![]()
 Write a Flask Backend Endpoint for Notifications
+ ![]()
 Write a React Page for Notifications
 	Run DynamoDB Local Container and ensure it works
  Run Postgres Container and ensure it works
 
-
+ ![]()
 Implement a healthcheck in the V3 Docker compose file
 Research best practices of Dockerfiles and attempt to implement it in your Dockerfile
 Learn how to install Docker on your localmachine and get the same containers running outside of Gitpod / Codespaces
