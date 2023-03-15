@@ -19,7 +19,7 @@ Run the dockerfile CMD as an external script.
    ![Confirmation of_image In_dockerhub](assets/docker_img_pushto_dockerhub.png).
    am able to craete and run multiple container by creating docker compose file and docker-compose-yml. 
    I use docker compose command to run the container and is successful
-   ![]()
+   ![docker_compose_file](assets/docker_compse_ymlfile_wk1.png)
 
 Document the Notification Endpoint for the OpenAI Document
  ![]()
