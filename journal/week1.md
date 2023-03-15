@@ -7,6 +7,9 @@ Run the dockerfile CMD as an external script.
    ![Build_container_image](assets/build_container_image%20wk1.png)
    Also am able to push and tag a image to DockerHub
   ![Push_image_to_dockerhub](assets/push-Image%20_to_dockerhub_wk1.png)
+  
+  This is the evidence of image push in dockerhub
+   ![Confirmation of_image In_dockerhub](assets/docker_img_pushto_dockerhub.png)
 Use multi-stage building for a Dockerfile build 
 
 Document the Notification Endpoint for the OpenAI Document
