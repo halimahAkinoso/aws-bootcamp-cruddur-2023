@@ -26,9 +26,11 @@ Document the Notification Endpoint for the OpenAI Document
 Write a Flask Backend Endpoint for Notifications
  ![]()
 Write a React Page for Notifications
-
-Run DynamoDB Local Container and ensure it works
-	
+ ![]()
+Run DynamoDB Local Container and ensure it works.
+Am ableto create table and list the table to confirm it.
+ ![Dynamodb_lical_Container](assets/create_Table.png)
+  ![Lis_created_Table](assets/list-table_wk1.png)
  Run Postgres Container and ensure it works
  ![]()
 
